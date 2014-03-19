@@ -1,4 +1,4 @@
-TimeTracker
+Alibi
 ===========
 
 A simple to use, yet powerful time management tool
